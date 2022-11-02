@@ -8,5 +8,6 @@ create table item (
     amount smallint unsigned not null
 );
 
-insert into item (description,amount) values ('Testi', 2);
-insert into item (description,amount) values ('Toinen testi', 3);
+insert into item (description,amount) values ('Testi', 1);
+insert into item (description,amount) values ('Toinen testi', 2);
+insert into item (description,amount) values ('Viela yksi testi', 3);
